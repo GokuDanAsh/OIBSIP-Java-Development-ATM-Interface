@@ -1,4 +1,4 @@
-# ATM Console Application
+# ATM Interface Application
 
 The ATM Console Application is a simple Java project that simulates basic ATM functionalities, including withdrawing, depositing, transferring funds, checking the balance, and viewing transaction history. Users can interact with the console interface to manage their accounts and perform these banking operations.
 
@@ -47,3 +47,6 @@ The project is organized into several classes to manage different aspects of the
 ```shell
 javac ATM.java
 java ATM
+
+## Important Note
+This application is designed for educational purposes and does not include actual banking functionalities or security features typically found in real-world ATM systems. It serves as a simple demonstration of basic Java programming and console-based application development.
